@@ -9,6 +9,7 @@ Assessment Requirements
 */
 
 // create a variable to hold your NFT's
+// We need to store collection of NFTs so we will use arrays 
 let NFTsArray = []
 
 // this function will take in some values as parameters, create an
