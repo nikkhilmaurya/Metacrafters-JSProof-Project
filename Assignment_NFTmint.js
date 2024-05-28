@@ -53,10 +53,11 @@ function getTotalSupply() {
 
 // call your functions below this line
 //Minting sports NFT with some metadata
-mintNFT("Virat Kohli", "RCB", "Batsman", "Indian", "5ft 8in", "05-11-1988", "31-12-2023");
-mintNFT("MS Dhoni", "CSK", "Wicketkeeper-Batsman", "Indian", "5ft 9in", "07-07-1981", "31-12-2023");
-mintNFT("Heinrich Klaasen", "SRH", "Wicketkeeper-Batsman", "South African", "5ft 11in", "30-07-1991", "31-12-2023");
-mintNFT("Andre Russell", "KKR", "All-Rounder", "West Indian", "6ft 1in", "29-04-1988", "31-12-2023");
+mintNFT("Virat Kohli", "RCB", "Batsman", "Indian", "5ft 8in", "05-11-1988", "26-05-2024");
+mintNFT("MS Dhoni", "CSK", "Wicketkeeper-Batsman", "Indian", "5ft 9in", "07-07-1981", "26-05-2024");
+mintNFT("Rilee Rossouw", "PBKS", "Batsman", "South African", "6ft 0in", "09-10-1989", "26-05-2024");
+mintNFT("Pat Cummins", "SRH", "Bowler", "Australian", "6ft 4in", "08-05-1993", "26-05-2024");
+mintNFT("Andre Russell", "KKR", "All-Rounder", "West Indian", "6ft 1in", "29-04-1988", "26-05-2024");
 
 //Listing all the minted NFTs
 listNFTs();
